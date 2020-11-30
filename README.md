@@ -13,10 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Joejiong&?theme=radical&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Joejiong&theme=radical&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joejiong)](https://github.com/Joejiong/github-readme-stats)
 -->
+
+[![Joejiong's github stats](https://github-readme-stats.vercel.app/api?username=Joejiong&theme=radical)](https://github.com/Joejiong/github-readme-stats)
+
 
 
 ### 你好，世界 👋，我是一个普通的程序猿，还在打怪升级中🌵，像一个艰辛努力的农民伯伯，在田地里插秧。
