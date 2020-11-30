@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Joejiong&theme=cobalt&show_icons=true&hide_title=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Joejiong&theme=cobalt&show_icons=true&bg_color=ffffff&hide_title=false" />
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joejiong)](https://github.com/Joejiong/github-readme-stats)
