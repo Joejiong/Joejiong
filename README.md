@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on python & c++ & MLsys & PaddlePaddle deep learning framework
+- 🌱: Focusing on python & c++ & MLsys & PaddlePaddle deep learning framework
 - :hammer: Contributor of open source frameworks
 - :ram: Member of the PaddlePaddle organization 
 - :meat_on_bone: Swimming Athlete 
