@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 💡: Loving math, philosophy & (programming) % bugs😂
 - :hammer: Contributor of open source frameworks
 - :ram: Member of the PaddlePaddle organization 
-- :meat_on_bone, 🏀, 🥦, 🏊‍:  Swimming Athlete 
+- :meat_on_bone: 🏀, 🥦, 🏊‍:  Swimming Athlete 
