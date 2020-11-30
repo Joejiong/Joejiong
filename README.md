@@ -1,4 +1,4 @@
-### Hi there 👋, I'm a progammer & Swimming Athlete 🏊‍♂️
+### Hi there 👋, I'm a progammer & swimming athlete 🏊‍♂️, still fighting with bugs, just like a hard-working farmer or like a random uncle, planting seedlings in the field🌵.
 
 <!--
 **Joejiong/Joejiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joejiong)](https://github.com/Joejiong/github-readme-stats)
 -->
 
-### 你好，世界 👋，我是一个普通的程序猿，还在打怪升级中🌵
+### 你好，世界 👋，我是一个普通的程序猿，还在打怪升级中🌵，像一个艰辛努力的农民伯伯，在田地里插秧。
 
 - 🌱: Focusing on python & c++ & MLsys & PaddlePaddle deep learning framework
 - :hammer: Contributor of open source frameworks
