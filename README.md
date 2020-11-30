@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 ### 你好，世界 👋，我是一个普通的程序猿，还在打怪升级中🌵，像一个艰辛努力的农民伯伯，在田地里插秧。
 
-- 🌱: Focusing on python & c++ & MLsys & PaddlePaddle deep learning framework
+- 🌱: Focusing on python & c++ & cuda & MLsys & PaddlePaddle deep learning framework
+- 💡: Loving math, philosophy & (programming) % bugs😂
 - :hammer: Contributor of open source frameworks
 - :ram: Member of the PaddlePaddle organization 
 - :meat_on_bone: Swimming Athlete 
