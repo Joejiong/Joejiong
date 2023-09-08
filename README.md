@@ -1,11 +1,12 @@
-### Hello World 👋, I'm a progammer & swimming athlete 🏊‍♂️, still fighting with bugs, just like a hard-working farmer or like a random uncle, planting seedlings in the field🌵.
+### Hello World 👋, I'm a programmer & swimming athlete 🏊‍♂️, still fighting with bugs, just like a hard-working farmer or like a random uncle, planting seedlings in the field🌵. 
+_Note: This is my open-source account, which only contains open-source endeavours and is separate from proprietary entities._
 
 <!--
 **Joejiong/Joejiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Baidu PaddlePaddle
+- 🔭 I was working on Baidu PaddlePaddle
 - 🌱 I’m currently learning MLsys and AI algos
 - 🤔 I’m looking for help with phd
 - 💬 Ask me about ...
@@ -27,6 +28,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Joejiong&show_icons=true&icon_color=DE1D2D&text_color=518096&bg_color=ffffff&hide_title=true" />
 
 
+- 🔭: a open-source r&d, a believer of risc-v
 - 🌱: Focusing on python & c++ & cuda & MLsys & PaddlePaddle deep learning framework
 - 💡: Loving math, philosophy & (programming) % bugs😂
 - :hammer: Contributor of open source frameworks
