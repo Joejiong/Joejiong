@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Joejiong&show_icons=true&icon_color=DE1D2D&text_color=518096&bg_color=ffffff&hide_title=true" />
 
 
-- 🔭: a open-source r&d, a believer of risc-v
+- 🔭: An open-source r&d, a firm believer of *risc-v*
 - 🌱: Focusing on python & c++ & cuda & MLsys & PaddlePaddle deep learning framework
 - 💡: Loving math, philosophy & (programming) % bugs😂
 - :hammer: Contributor of open source frameworks
